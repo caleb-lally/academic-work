@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523229306 source:c:\users\caleb (user)\desktop\coding practice\codeblocks c\theater_seats_project\main.c
+	<tchar.h>
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<windows.h>
+	<semaphore.h>
+	<string.h>
+
